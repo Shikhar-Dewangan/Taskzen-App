@@ -43,5 +43,5 @@ TaskZen helps users efficiently manage daily tasks with a clean UI, real-time up
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/taskzen.git
+git clone https://github.com/Shikhar-Dewangan/Taskzen-App.git
 cd taskzen
